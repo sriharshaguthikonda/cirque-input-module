@@ -1,0 +1,18 @@
+﻿{
+    "schemaVersion":  "repo-map-artifact-branch/v1",
+    "repo":  "sriharshaguthikonda/cirque-input-module",
+    "generatedAt":  "2026-06-01T06:04:32.6714463Z",
+    "source":  "Repo_maps GitHub footprint publish runner",
+    "publishBranch":  "repo-intel-artifacts",
+    "mapCount":  1,
+    "totalBytes":  24386,
+    "maps":  [
+                 {
+                     "name":  "main",
+                     "ref":  "refs/remotes/origin/main",
+                     "commit":  "bea410e574db48da0682984ded9f1e7272e861c0",
+                     "path":  ".repo-intel/branches/remote-origin/main__bea410e574db/repo-map-full.json",
+                     "bytes":  21187
+                 }
+             ]
+}
